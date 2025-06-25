@@ -49,7 +49,4 @@ code .
 # Then right-click index.html and select "Open with Live Server"
 📷 Screenshots
 1.
-![Uploading Screenshot 2025-06-25 153034.png…]()
-![Screenshot 2025-06-25 153115](https://github.com/user-attachments/assets/1184677f-2ad2-43d3-ba67-043806025326)
-![Screenshot 2025-06-25 153054](https://github.com/user-attachments/assets/794ad0c9-3d7b-4d7a-a0d5-0a3d654cc71a)
-![Screenshot 2025-06-25 153132](https://github.com/user-attachments/assets/432a85ec-cb91-4ae8-bfff-b7203dc9da55)
+
