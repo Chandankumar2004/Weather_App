@@ -49,4 +49,4 @@ code .
 # Then right-click index.html and select "Open with Live Server"
 📷 Screenshots
 1.
-![Image Alt](https://github.com/Chandankumar2004/Weather_App/blob/519c927eb88ad4cd3e0b313b421810556cf5b81f/Screenshot%202025-06-25%20153034.png)
+![Image Alt]("C:\Users\chand\Pictures\Screenshots\Screenshot 2025-06-25 153034.png")
