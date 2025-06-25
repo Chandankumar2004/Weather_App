@@ -48,5 +48,5 @@ Edit
 code .
 # Then right-click index.html and select "Open with Live Server"
 📷 Screenshots
-1.![image alt](https://github.com/Chandankumar2004/Weather_App/blob/main/Screenshot%202025-06-25%20153034.png?raw=true)
-
+1.
+![Image Alt](https://github.com/Chandankumar2004/Weather_App/blob/519c927eb88ad4cd3e0b313b421810556cf5b81f/Screenshot%202025-06-25%20153034.png)
