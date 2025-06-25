@@ -50,4 +50,3 @@ code .
 📷 Screenshots
 1.
 ![Image Alt]("C:\Users\chand\Pictures\Screenshots\Screenshot 2025-06-25 153034.png")
-![Screenshot 2025-06-25 153034](https://github.com/user-attachments/assets/b891e71f-c4d0-48e2-a60c-3644ff3d8413)
