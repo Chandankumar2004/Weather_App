@@ -1,52 +1,116 @@
+
 # 🌤️ Weather App
 
-A simple and stylish weather application built using HTML, CSS, and JavaScript. It fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather conditions for a searched city.
+A **simple and stylish weather application** built using HTML, CSS, and JavaScript.  
+It fetches **real-time weather data** from the [OpenWeatherMap API](https://openweathermap.org/api) and displays the current weather conditions for any searched city.
+
+---
 
 ## 🔍 Features
 
-- Search for any city to get current weather info
-- Displays temperature in Celsius
-- Shows humidity and wind speed
-- Weather icons change based on condition (e.g., Rain, Clear, Clouds)
-- Error message for invalid city names
+✅ Search for **any city** to get the current weather.  
+✅ Displays **temperature** in °C.  
+✅ Shows **humidity** and **wind speed**.  
+✅ Dynamic **weather icons** based on the condition (e.g., 🌧️ Rain, ☀️ Clear, ☁️ Clouds).  
+✅ Friendly **error message** for invalid city names.  
+
+---
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **API:** [OpenWeatherMap API](https://openweathermap.org/api)
+- 🌐 **Frontend**: HTML, CSS, JavaScript  
+- ☁️ **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
+
+---
 
 ## 📁 Project Structure
 
+```
+weather-app/
+├── index.html       # Main HTML file
+├── style.css        # Styling (CSS)
+├── app.js           # JavaScript logic
+└── README.md        # This file
+```
+
+---
 
 ## 🚀 Getting Started
 
-Follow these steps to clone and run the app locally:
+Follow these simple steps to set up the project locally:
 
-### 1. Clone the Repository
+### 📥 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
-2. Get Your API Key
-Go to OpenWeatherMap and sign up
+```
 
-Navigate to the API section and copy your API key
+---
 
-3. Add Your API Key
-Open app.js
+### 🔑 2. Get Your API Key
 
-Replace the following line with your actual key:
+- Go to [OpenWeatherMap](https://openweathermap.org/api) and sign up.
+- Navigate to the API section and generate/copy your **API key**.
+
+---
+
+### ✍️ 3. Add Your API Key
+
+- Open `app.js`.
+- Replace the placeholder key with your actual API key:
+
+```js
 const apiKey = "YOUR_API_KEY_HERE";
-4. Run the App
-You can simply open index.html in your browser:
+```
 
-bash![Screenshot 2025-06-25 153034](https://github.com/user-attachments/assets/a79d1d20-226d-4225-bbad-fbfc85e3772e)
+---
 
-Copy
-Edit
+### 🌐 4. Run the App
+
+Simply open the `index.html` file in your browser:
+
+```bash
 # If you're using VS Code:
 code .
 # Then right-click index.html and select "Open with Live Server"
-📷 Screenshots
-1.
-![Image Alt]("C:\Users\chand\Pictures\Screenshots\Screenshot 2025-06-25 153034.png")
+```
+
+Or just double-click `index.html` to open it in your browser.
+
+---
+
+## 📷 Screenshots
+
+| Home |
+|-------------------------------|
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153034.png) |
+
+---
+| Search Weather for Your City |
+|-------------------------------|
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153054.png) |
+
+---
+---
+| Search Weather for Your Invalid City |
+|-------------------------------|
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153132.png) |
+
+---
+
+## 🙌 Contribution
+
+Contributions are welcome! Feel free to submit a PR or open an issue for suggestions or bug reports.
+
+---
+## 🙋‍♂️ Author
+
+**Chandan Kumar Chaurasiya**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chandan2004)  
+🌐 [Portfolio](https://chandan-portfolio-tau.vercel.app/)  
+📧 Email: chandan32005c@gmail.com
+
+---
+
+> ⭐ **Star** this repository to support the project and help others discover it!
